@@ -1,4 +1,4 @@
-# Aplikacja wyświetlająca filmy z [API](https://www.themoviedb.org)
+# Przykładowa aplikacja wyświetlająca filmy z [API](https://www.themoviedb.org).
 
 #### Przedstawiająca podstawowe wykorzystanie Redux-Thunk do budowania operacji asynchronicznych.
 #### Szczegóły wytłumaczone w artykule: [dogtronic.io/asynchronicznosc-w-redux](https://dogtronic.io/asynchronicznosc-w-redux/)
@@ -11,13 +11,13 @@
 <br/>
 <br/>
 
-## Jak włączyć aplikację?
+### Jak włączyć aplikację?
 
 ## Najpierw musisz zainstalować wszystkie potrzebne zależności:
 
 ### `npm install`
 
-Następnie możesz uruchomić aplikację:
+## Następnie możesz uruchomić aplikację:
 
 ### `npm start`
 
