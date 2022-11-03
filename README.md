@@ -11,13 +11,13 @@
 <br/>
 <br/>
 
-### Jak włączyć aplikację?
+## Jak włączyć aplikację?
 
-## Najpierw musisz zainstalować wszystkie potrzebne zależności:
+### Najpierw musisz zainstalować wszystkie potrzebne zależności:
 
-### `npm install`
+#### `npm install`
 
-## Następnie możesz uruchomić aplikację:
+### Następnie możesz uruchomić aplikację:
 
-### `npm start`
+#### `npm start`
 
